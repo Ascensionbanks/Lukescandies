@@ -26,12 +26,12 @@ img {
   }
 
 .left {
-    width: 48%;
+    width: 20%;
     float: left;
 }
 
 .right {
-    width: 48%;
+    width: 20%;
     float: right;
 }
 
